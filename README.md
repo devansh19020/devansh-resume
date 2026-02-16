@@ -12,6 +12,7 @@ Welcome to my **resume and professional links repository**! This repository serv
 | GitHub                 | [github.com/devansh19020](https://github.com/devansh19020)                                |
 | LeetCode               | [leetcode.com/u/devansh1925/](https://leetcode.com/u/devansh1925/)                            | 
 | GeeksForGeeks          | [geeksforgeeks.org/user/devanshra1b7s/](https://www.geeksforgeeks.org/user/devanshra1b7s/)                            | 
+| Introduction Video     | [drive.google.com](https://drive.google.com/file/d/1Q7e6M0PzwnfDLxIZF1fRJyJmYqDeh66i/view?usp=sharing)                            | 
 
 
 ---
